@@ -54,6 +54,7 @@ pst-node in order to draw trees.
 %doc %{_texmfdistdir}/doc/generic/pst-tree/pst-tree-doc.tex
 #- source
 %doc %{_texmfdistdir}/source/generic/pst-tree/Makefile
+%doc %{_tlpkgobjdir}/*.tlpobj
 
 #-----------------------------------------------------------------------
 %prep
@@ -64,3 +65,5 @@ pst-node in order to draw trees.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex doc source %{buildroot}%{_texmfdistdir}
+mkdir -p %{buildroot}%{_tlpkgobjdir}
+cp -fpa tlpkg/tlpobj/*.tlpobj %{buildroot}%{_tlpkgobjdir}
