@@ -6,7 +6,7 @@
 # catalog-version 1.12
 Name:		texlive-pst-tree
 Version:	1.12
-Release:	7
+Release:	8
 Summary:	Trees, using pstricks
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/graphics/pstricks/contrib/pst-tree
