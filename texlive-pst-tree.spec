@@ -1,6 +1,6 @@
 Name:		texlive-pst-tree
 Version:	60421
-Release:	1
+Release:	2
 Summary:	Trees, using pstricks
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/graphics/pstricks/contrib/pst-tree
