@@ -3,7 +3,7 @@ Version:	60421
 Release:	2
 Summary:	Trees, using pstricks
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/graphics/pstricks/contrib/pst-tree
+URL:		https://www.ctan.org/tex-archive/graphics/pstricks/contrib/pst-tree
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pst-tree.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pst-tree.doc.r%{version}.tar.xz
